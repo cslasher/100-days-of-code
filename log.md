@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: 1/1/17
-##### (delete me or comment me out)
 
 **Today's Progress**: Brushing up on front-end stuff on freeCodeCamp.
 
