@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: 1/1/17
+### Day 2: 1/5/17
+
+**Today's Progress**: Catching up to jQuery now.
+
+**Thoughts:** Still in familiar ground. Tomorrow will start with an actual project.  
+
+### Day 1: 1/4/17
 
 **Today's Progress**: Brushing up on front-end stuff on freeCodeCamp. End up spending 2 hours catching up half way through CSS.
 
