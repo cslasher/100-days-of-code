@@ -19,3 +19,9 @@
 **Today's Progress**: Quickly built a bootstrap page.
 
 **Thoughts:** I've learned that I'm not great with designing. So I'll just try to get these parts over asap.
+
+### Day 4: 1/7/17
+
+**Today's Progress**: Javascripting.
+
+**Thoughts:** Picking up the pace.
