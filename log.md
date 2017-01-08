@@ -25,3 +25,9 @@
 **Today's Progress**: Javascripting.
 
 **Thoughts:** Picking up the pace.
+
+### Day 5: 1/8/17
+
+**Today's Progress**: Javascripting.
+
+**Thoughts:** Stuck on regular expression a bit.
