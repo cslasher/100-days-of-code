@@ -31,3 +31,9 @@
 **Today's Progress**: Javascripting.
 
 **Thoughts:** Stuck on regular expression a bit.
+
+### Day 6: 1/9/17
+
+**Today's Progress**: Javascripting.
+
+**Thoughts:** Not much except learning more about JS.
