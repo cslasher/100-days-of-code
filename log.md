@@ -37,3 +37,9 @@
 **Today's Progress**: Javascripting.
 
 **Thoughts:** Not much except learning more about JS.
+
+### Day 7: 1/10/17
+
+**Today's Progress**: Javascripting.
+
+**Thoughts:** Getting hard to stop at 1 hour.
