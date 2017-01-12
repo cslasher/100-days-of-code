@@ -43,3 +43,9 @@
 **Today's Progress**: Javascripting.
 
 **Thoughts:** Getting hard to stop at 1 hour.
+
+### Day 8: 1/12/17
+
+**Today's Progress**: JQuery + Bootstrap.
+
+**Thoughts:** Skipped a day, back at it agian.
