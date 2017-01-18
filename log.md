@@ -49,3 +49,9 @@
 **Today's Progress**: JQuery + Bootstrap.
 
 **Thoughts:** Skipped a day, back at it agian.
+
+### Day 9: 1/18/17
+
+**Today's Progress**: Ruby.
+
+**Thoughts:** Did a leetcode challenge, 27.4%. Getting back at the game after a few days of travel.
