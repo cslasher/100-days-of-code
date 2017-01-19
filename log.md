@@ -55,3 +55,10 @@
 **Today's Progress**: Ruby.
 
 **Thoughts:** Did a leetcode challenge, 27.4%. Getting back at the game after a few days of travel.
+
+
+### Day 10: 1/19/17
+
+**Today's Progress**: Javascript algorithms.
+
+**Thoughts:** Back working on JavaScript algorithms. Really slow day. 
