@@ -62,3 +62,21 @@
 **Today's Progress**: Javascript algorithms.
 
 **Thoughts:** Back working on JavaScript algorithms. Really slow day. 
+
+### Day 11: 1/20/17
+
+**Today's Progress**: Javascript algorithms + Node.
+
+**Thoughts:** Want to save time, skipping Javascript and start focusing on Node. 
+
+### Day 12: 1/21/17
+
+**Today's Progress**: NPM.
+
+**Thoughts:** Getting familiar with NPM structure. 
+
+### Day 13: 1/22/17
+
+**Today's Progress**: NPM.
+
+**Thoughts:** Continuing NPM. Not a progressive day. 
