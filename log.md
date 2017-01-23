@@ -80,3 +80,9 @@
 **Today's Progress**: NPM.
 
 **Thoughts:** Continuing NPM. Not a progressive day. 
+
+### Day 14: 1/23/17
+
+**Today's Progress**: NPM.
+
+**Thoughts:** Hindered by a small bug but managed to overcome it.
