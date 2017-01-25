@@ -86,3 +86,9 @@
 **Today's Progress**: NPM.
 
 **Thoughts:** Hindered by a small bug but managed to overcome it.
+
+### Day 15: 1/24/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Not productive yet.
