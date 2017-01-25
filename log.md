@@ -92,3 +92,9 @@
 **Today's Progress**: Node.
 
 **Thoughts:** Not productive yet.
+
+### Day 16: 1/25/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Getting better with node. Very interesting.
