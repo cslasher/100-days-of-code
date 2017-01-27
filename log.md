@@ -98,3 +98,15 @@
 **Today's Progress**: Node.
 
 **Thoughts:** Getting better with node. Very interesting.
+
+### Day 17: 1/26/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Light work on node.
+
+### Day 18: 1/27/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Happy CNY. Ultra light work. lol.
