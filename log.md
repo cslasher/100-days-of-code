@@ -110,3 +110,9 @@
 **Today's Progress**: Node.
 
 **Thoughts:** Happy CNY. Ultra light work. lol.
+
+### Day 19: 1/28/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Starting to get a good grasp on Node.
