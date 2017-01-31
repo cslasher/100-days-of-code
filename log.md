@@ -116,3 +116,21 @@
 **Today's Progress**: Node.
 
 **Thoughts:** Starting to get a good grasp on Node.
+
+### Day 20: 1/29/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Struggling with async.
+
+### Day 21: 1/30/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Thought I got asyc down, but turns out a hidden bug was not caught until Day 22.
+
+### Day 22: 1/31/17
+
+**Today's Progress**: Node.
+
+**Thoughts:** Caught a bug I missed yesterday. Finished with Learnyounode practices, moving to Express.js.
