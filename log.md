@@ -146,3 +146,9 @@
 **Today's Progress**: Git.
 
 **Thoughts:** Just a simple Git exercise: Git-it. Nice to practice something I used almost everyday.
+
+### Day 25: 2/3/17
+
+**Today's Progress**: Git.
+
+**Thoughts:** Finished git-it. Moving on to MongoDB.
