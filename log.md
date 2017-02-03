@@ -134,3 +134,15 @@
 **Today's Progress**: Node.
 
 **Thoughts:** Caught a bug I missed yesterday. Finished with Learnyounode practices, moving to Express.js.
+
+### Day 23: 2/1/17
+
+**Today's Progress**: Express.
+
+**Thoughts:** Finished ExpressWorks in about 3 hours.
+
+### Day 24: 2/2/17
+
+**Today's Progress**: Git.
+
+**Thoughts:** Just a simple Git exercise: Git-it. Nice to practice something I used almost everyday.
