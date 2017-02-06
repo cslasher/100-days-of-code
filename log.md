@@ -152,3 +152,9 @@
 **Today's Progress**: Git.
 
 **Thoughts:** Finished git-it. Moving on to MongoDB.
+
+### Day 26: 2/4/17
+
+**Today's Progress**: MongoDB.
+
+**Thoughts:** Starting MongoDB, feeling a stumpped, back to studying documentations.
