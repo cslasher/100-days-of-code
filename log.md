@@ -164,3 +164,9 @@
 **Today's Progress**: MongoDB.
 
 **Thoughts:** Trying to learn insert.
+
+### Day 28: 2/7/17
+
+**Today's Progress**: MongoDB.
+
+**Thoughts:** Finishing MongoDB. Deciding if continuing with Backend tomorrow.
