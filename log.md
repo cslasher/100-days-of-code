@@ -170,3 +170,9 @@
 **Today's Progress**: MongoDB.
 
 **Thoughts:** Finishing MongoDB. Deciding if continuing with Backend tomorrow.
+
+### Day 29: 2/8/17
+
+**Today's Progress**: node.js + express.js
+
+**Thoughts:** Working on the timestamp API.
