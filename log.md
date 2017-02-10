@@ -176,3 +176,11 @@
 **Today's Progress**: node.js + express.js
 
 **Thoughts:** Working on the timestamp API.
+
+**Thoughts:** Finishing MongoDB. Deciding if continuing with Backend tomorrow.
+
+### Day 30: 2/9/17
+
+**Today's Progress**: node.js + express.js
+
+**Thoughts:** Working on the timestamp API. No breakthrough today. Stumped on the callback mentality.
