@@ -184,3 +184,15 @@
 **Today's Progress**: node.js + express.js
 
 **Thoughts:** Working on the timestamp API. No breakthrough today. Stumped on the callback mentality.
+
+### Day 31: 2/19/17
+
+**Today's Progress**: node.js + express.js
+
+**Thoughts:** Working on the timestamp API. Had to take a long break for traveling and other obligations.
+
+### Day 32: 2/20/17
+
+**Today's Progress**: node.js + express.js
+
+**Thoughts:** Almost done with timestamp. Hope to wrap up tonight.
