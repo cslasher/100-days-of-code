@@ -196,3 +196,9 @@
 **Today's Progress**: node.js + express.js
 
 **Thoughts:** Almost done with timestamp. Hope to wrap up tonight.
+
+### Day 33: 2/21/17
+
+**Today's Progress**: node.js + express.js
+
+**Thoughts:** Almost done with header parse. A common pit fall for me was how the Cloud9 enironement differs from my own pd.
