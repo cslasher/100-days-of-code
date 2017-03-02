@@ -202,3 +202,21 @@
 **Today's Progress**: node.js + express.js
 
 **Thoughts:** Almost done with header parse. A common pit fall for me was how the Cloud9 enironement differs from my own pd.
+
+### Day 34: 2/22/17
+
+**Today's Progress**: node.js + express.js
+
+**Thoughts:** Done with header parse API.
+
+### Day 35: 2/23/17
+
+**Today's Progress**: node.js + express.js + MongoDB
+
+**Thoughts:** Setting up for the URL shortener API challenge with MongoDB.
+
+### Day 36: 3/1/17
+
+**Today's Progress**: node.js + express.js + PostgreSQL + Heroku
+
+**Thoughts:** Getting back from another trip. Moving to Heroku Development
