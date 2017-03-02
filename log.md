@@ -215,7 +215,7 @@
 
 **Thoughts:** Setting up for the URL shortener API challenge with MongoDB.
 
-### Day 36: 3/1/17
+### Day 36: 3/2/17
 
 **Today's Progress**: node.js + express.js + PostgreSQL + Heroku
 
