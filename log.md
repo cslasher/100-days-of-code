@@ -220,3 +220,9 @@
 **Today's Progress**: node.js + express.js + PostgreSQL + Heroku
 
 **Thoughts:** Getting back from another trip. Moving to Heroku Development
+
+### Day 37: 3/22/17
+
+**Today's Progress**: node.js + express.js + PostgreSQL + Heroku
+
+**Thoughts:** Can't believe I took such a long break. Finally back on track. And successfully implemented the URL parse. Yay.
