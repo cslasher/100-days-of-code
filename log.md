@@ -226,3 +226,9 @@
 **Today's Progress**: node.js + express.js + PostgreSQL + Heroku
 
 **Thoughts:** Can't believe I took such a long break. Finally back on track. And successfully implemented the URL parse. Yay.
+
+### Day 38: 3/25/17
+
+**Today's Progress**: node.js + express.js + MongoDb + Pug + Heroku
+
+**Thoughts:** Added pug for templating and the index page.
