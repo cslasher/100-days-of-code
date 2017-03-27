@@ -232,3 +232,9 @@
 **Today's Progress**: node.js + express.js + MongoDb + Pug + Heroku
 
 **Thoughts:** Added pug for templating and the index page.
+
+### Day 39: 3/27/17
+
+**Today's Progress**: node.js + express.js + MongoDb + Pug + Heroku
+
+**Thoughts:** Added URL validator and MongoDB
