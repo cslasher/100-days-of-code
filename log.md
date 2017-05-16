@@ -238,3 +238,15 @@
 **Today's Progress**: node.js + express.js + MongoDb + Pug + Heroku
 
 **Thoughts:** Added URL validator and MongoDB
+
+### Day 40: 5/16/17
+
+**Today's Progress**: node.js + express.js + request.js + Pug + Heroku + Nexmo
+
+**Thoughts:** After a long long break, getting back to Node feels really good. Starting on Nexmo test.
+
+### Day 41: 5/17/17
+
+**Today's Progress**: node.js + express.js + request.js + Pug + Heroku + Nexmo
+
+**Thoughts:** Completed send messages and verifications. Coding Node.js is really satisfying.
