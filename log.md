@@ -250,3 +250,9 @@
 **Today's Progress**: node.js + express.js + request.js + Pug + Heroku + Nexmo
 
 **Thoughts:** Completed send messages and verifications. Coding Node.js is really satisfying.
+
+### Day 42: 5/24/17
+
+**Today's Progress**: node.js + express.js + hubot + Docker + GitLab + Slack
+
+**Thoughts:** Finally setting the slack bot to CI, so it deploys automatically. Cool.
