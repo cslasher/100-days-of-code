@@ -256,3 +256,9 @@
 **Today's Progress**: node.js + express.js + hubot + Docker + GitLab + Slack
 
 **Thoughts:** Finally setting the slack bot to CI, so it deploys automatically. Cool.
+
+### Day 43: 6/18/17
+
+**Today's Progress**: node.js + express.js + mongodb + mongoose
+
+**Thoughts:** Finally finished url-shortener. Had to really get to understand Node.js and it made a huge difference. Sometimes I forgot to log my progress, but I try to work on challenges everday. 
